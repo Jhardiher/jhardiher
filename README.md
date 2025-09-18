@@ -26,7 +26,7 @@ Me encanta aprender resolviendo problemas reales y experimentar con nuevas tecno
 - 🏗️ Buenas prácticas en arquitectura de software  
 - ⚙️ Optimización de consultas SQL  
 - 🧑‍🔬 Testing avanzado con Jest  
-- 🖌️ Personalización de perfiles en GitHub  
+ 
 
 ---
 ![Jhardiher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhardiher&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true)
