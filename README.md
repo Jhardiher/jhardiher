@@ -31,9 +31,9 @@ Me encanta aprender resolviendo problemas reales y experimentar con nuevas tecno
 ---
 ## 📊 Mis Stats en GitHub
 
-![Jhardiher's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jhardiher&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)  
+![Jhardiher's GitHub stats](https://<TU-VERCEL-DOMAIN>/api?username=Jhardiher&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jhardiher&layout=compact&theme=tokyonight&count_private=true)  
+![Top Langs](https://<TU-VERCEL-DOMAIN>/api/top-langs/?username=Jhardiher&layout=compact&theme=tokyonight&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jhardiher&theme=tokyonight&hide_border=true)
 
