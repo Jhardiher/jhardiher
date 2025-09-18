@@ -46,7 +46,7 @@ Me encanta aprender resolviendo problemas reales y experimentar con nuevas tecno
 
 ## 🌐 Conecta conmigo
 - 🐙 GitHub: [github.com/Jhardiher](https://github.com/Jhardiher)  
-- 📩 Correo: giraldojose814@gmial.com
+- 📩 Correo: giraldojose814@gmaIl.com
 
 ---
 
