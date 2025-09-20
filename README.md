@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Jhardiher 🚀
 
-💻 Desarrollador en formación apasionado por el **backend y frontend**, las **bases de datos** y la **automatización de procesos**.  
-Me encanta aprender resolviendo problemas reales y experimentar con nuevas tecnologías.  
+💻 Estudiante de Ingeniería de Sistemas en formación, aprendiendo sobre backend y frontend, bases de datos y automatización de procesos.
+Me gusta aprender resolviendo problemas prácticos y experimentar con nuevas tecnologías mientras sigo adquiriendo experiencia.
 
 ---
 
